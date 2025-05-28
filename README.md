@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rinju-Pokhrel1
+- 👋 Hi, I’m Rinju Pokhrel
 - 👀 I’m interested in technology,
 - 🌱 I’m currently learning Git and exploring version control through various tutorials and videos.
 - 💞️  I’m looking to collaborate on tech-driven projects, particularly those involving AI, automation, or educational technology.
