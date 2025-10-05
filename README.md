@@ -20,7 +20,8 @@ I enjoy **learning new technologies**, building projects, and continuously impro
 | Git & GitHub   | ██████████ 100% |
 | MySQL          | ██████████ 100% |
 | HTML           | ██████████ 100% |
-| CSS            | █████░░░░░ 50% |
+| CSS            | ██████████ 100% |
+| Js             | █████░░░░░ 50% |
 
 ---
 
