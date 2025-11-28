@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rinju Pokhrel</h1>
-<h3 align="center">🚀 Computer Science Student  | Continuous Learner</h3>
+<h3 align="center">🚀 CS Student | Tech & Full-Stack Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rinju-pokhrel1&label=Profile%20views&color=0e75b6&style=flat" alt="rinju-pokhrel1" />
@@ -8,7 +8,7 @@
 ---
 
 ## 🌱 About Me
-I am a motivated **Computer Science student from Nepal** passionate about programming, AI, web development, and problem-solving.  
+I am a motivated **Computer Science student from Nepal** passionate about programming, web development, and problem-solving.  
 I enjoy **learning new technologies**, building projects, and continuously improving my skills in Python, databases, and front-end development.  
 
 ---
@@ -21,8 +21,7 @@ I enjoy **learning new technologies**, building projects, and continuously impro
 | MySQL          | ██████████ 100% |
 | HTML           | ██████████ 100% |
 | CSS            | ██████████ 100% |
-| Js             | █████░░░░░ 50% |
-
+| js             | ██████████ 100% |
 ---
 
 ## 💬 Ask Me About
